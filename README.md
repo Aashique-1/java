@@ -1,2 +1,2 @@
 # java
-# java simple project to improve basics
+simple project to improve basics of java
