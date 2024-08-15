@@ -1,0 +1,165 @@
+// IF ELSE 
+
+class marks{
+    public static void main(String[] args) {
+        int dis=89;
+        int cltlab=88;
+        int clt=54;
+        int pf=75;
+        int pflab=68;
+        int linear=74;
+        //dis
+        System.out.println("your grade in discrute structure");
+        if (dis>100){
+            System.out.println("ERROR");
+        }
+        else if (dis>87 && dis<100 )
+        {
+         System.out.println("A");
+        }
+        else if (dis>80 ) {
+         System.out.println("B+");
+        }
+        else if (dis>73 ) {
+         System.out.println("B");
+        }
+        else if (dis>67 ) {
+         System.out.println("C+");
+        }
+        else if (dis>59 ) {
+         System.out.println("C");
+        }
+        else {
+         System.out.println("F");
+        }
+// for cltlb
+System.out.println("your grade in cltlab");
+       if (cltlab>100)
+       {
+        System.out.println("EROOR 404");
+       }
+       else if (cltlab>87 )
+       {
+        System.out.println("A");
+       }
+       else if (cltlab>80){
+        System.out.println("B+");
+       }
+       else if (cltlab>73) {
+        System.out.println("B");
+       }
+       else if (cltlab>67 ) {
+        System.out.println("C+");
+       }
+       else if (cltlab>59 ) {
+        System.out.println("C");
+       }
+       else {
+        System.out.println("F");
+       }
+
+//clt theory
+
+System.out.println("your grade in clt theory");
+if (clt>100)
+{
+ System.out.println("EROOR 404");
+}
+else if (clt>87 )
+{
+ System.out.println("A");
+}
+else if (clt>80 ) {
+ System.out.println("B+");
+}
+else if (clt>73 ) {
+ System.out.println("B");
+}
+else if (clt>67 ) {
+ System.out.println("C+");
+}
+else if (clt>59 ) {
+ System.out.println("C");
+}
+else {
+ System.out.println("F");
+}
+// pf theory
+System.out.println("your grade in pf");
+if (pf>100)
+{
+ System.out.println("EROOR 404");
+}
+else if (pf>87 )
+{
+ System.out.println("A");
+}
+else if (pf>80 ) {
+ System.out.println("B+");
+}
+else if (pf>73 ) {
+ System.out.println("B");
+}
+else if (pf>67 ) {
+ System.out.println("C+");
+}
+else if (pf>59 ) {
+ System.out.println("C");
+}
+else {
+ System.out.println("F");
+}
+
+// pflab
+System.out.println("your grade in pflab");
+if (pflab>100)
+{
+ System.out.println("EROOR 404");
+}
+else if (pflab>87 )
+{
+ System.out.println("A");
+}
+else if (pflab>80 ) {
+ System.out.println("B+");
+}
+else if (pflab>73 ) {
+ System.out.println("B");
+}
+else if (pflab>67 ) {
+ System.out.println("C+");
+}
+else if (pflab>59 ) {
+ System.out.println("C");
+}
+else {
+ System.out.println("F");
+}
+ // linear
+ System.out.println("your grade in linear");
+ if (linear>100)
+ {
+  System.out.println("EROOR 404");
+ }
+ else if (linear>86)
+ {
+  System.out.println("A");
+ }
+ else if (linear>80) {
+  System.out.println("B+");
+ }
+ else if (linear>73) {
+  System.out.println("B");
+ }
+ else if (linear>67) {
+  System.out.println("C+");
+ }
+ else if (linear>59 ) {
+  System.out.println("C");
+ }
+ else {
+  System.out.println("F");
+ }
+
+    }
+}
