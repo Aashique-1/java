@@ -1,4 +1,4 @@
-class marks{
+class num{
     public static void main(String[] args) {
         
     int a=1;
