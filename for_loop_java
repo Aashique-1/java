@@ -1,4 +1,3 @@
-
 class marks{
     public static void main(String[] args) {
         int dis=89;
